@@ -97,13 +97,13 @@ En la carpeta postman/ se incluyen:
 - Datos iniciales cargados mediante import.sql
 - Usuarios y roles precargados para pruebas
 
-👨‍💻 Autor
-Robbie James Dulanto Trujillo
-Estudiante de Ingeniería de Sistemas de Información – UPC
-Proyecto académico
+👨‍💻 Autor:
+- Robbie James Dulanto Trujillo
+- Estudiante de Ingeniería de Sistemas de Información – UPC
+- Proyecto académico
 
 📌 Estado del proyecto
-✅ Funcional
-✅ Seguridad implementada
-✅ Endpoints probados
-✅ Listo para evaluación
+-  Funcional
+-  Seguridad implementada
+-  Endpoints probados
+-  Listo para evaluación
