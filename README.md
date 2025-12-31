@@ -92,17 +92,17 @@ En la carpeta postman/ se incluyen:
 3. Ejecutar el endpoint de autenticación
 4. El token se reutiliza para los demás requests
 
-🗄️ Base de datos
+🗄️ Base de datos:
 - Base de datos: PostgreSQL
 - Datos iniciales cargados mediante import.sql
 - Usuarios y roles precargados para pruebas
 
-👨‍💻 Autor:
+## 👨‍💻 Autor:
 - Robbie James Dulanto Trujillo
 - Estudiante de Ingeniería de Sistemas de Información – UPC
 - Proyecto académico
 
-📌 Estado del proyecto
+📌 Estado del proyecto:
 -  Funcional
 -  Seguridad implementada
 -  Endpoints probados
