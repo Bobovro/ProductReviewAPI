@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "65c600ee-9d5d-4a49-8ae2-009b7266081c",
+		"name": "ProductReview API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48295891",
+		"_collection_link": "https://u20231a284-7365110.postman.co/workspace/Robbie-Dulanto's-Workspace~ec5f03a7-d95e-4b4e-8404-e9f4a3e9e0f4/collection/48295891-65c600ee-9d5d-4a49-8ae2-009b7266081c?action=share&source=collection_link&creator=48295891"
+	},
+	"item": [
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Authenticate",
+					"request": {
+						"method": "POST",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Products",
+			"item": [
+				{
+					"name": "Create Product",
+					"request": {
+						"method": "POST",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Get Products",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Reviews",
+			"item": [
+				{
+					"name": "Create Review",
+					"request": {
+						"method": "POST",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Analytics",
+			"item": [
+				{
+					"name": "Review Stats",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
