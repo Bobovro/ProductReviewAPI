@@ -19,24 +19,25 @@ Este proyecto fue desarrollado como práctica académica para reforzar conceptos
 - Postman
 
 ## 📁 Estructura del proyecto:
-ProductReviewAPI/
-├── src/
-│ ├── main/
-│ │ ├── java/com/upc/productreviewapi/
-│ │ │ ├── controllers
-│ │ │ ├── services
-│ │ │ ├── repositories
-│ │ │ ├── entities
-│ │ │ ├── dtos
-│ │ │ └── security
-│ │ └── resources/
-│ │ ├── application.properties
-│ │ └── import.sql
-├── postman/
-│ ├── ProductReviewAPI.postman_collection.json
-│ └── ProductReviewAPI.postman_environment.json
-├── pom.xml
-└── README.md
+- ProductReviewAPI/
+    - src/
+      - main/
+        - java/com/upc/productreviewapi/
+           - controllers
+           - services
+           - controllers
+           - repositories
+           - entities
+           - dtos
+           - security
+        - resources/
+           - application.properties
+           - import.sql
+    - postman/
+      - ProductReviewAPI.postman_collection.json
+      - ProductReviewAPI.postman_environment.json
+    - pom.xml
+    - README.md
 
 ## 🔐 Seguridad y roles:
 El sistema utiliza **JWT** para autenticación y autorización.
